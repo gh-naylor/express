@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "gh-connect": "https://github.com/gh-naylor/connect/tarball/master",
+    "connect": "https://github.com/gh-naylor/connect/tarball/master",
     "commander": "0.6.1",
     "range-parser": "0.0.4",
     "mkdirp": "0.3.4",
